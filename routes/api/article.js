@@ -1,0 +1,1 @@
+https://github.com/beldrevo/NYTimes-react-scraper/blob/master/routes/api/article.js
